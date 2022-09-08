@@ -16,14 +16,63 @@ The purpose of this analysis was to look at the performance for each model and r
 
 ## Results
 
+The notebooks where this analysis was performed are listed below:
+
+[credit_risk_resampling.ipynb](https://github.com/ClaudAMC/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+
+[credit_risk_ensemble.ipynb](https://github.com/ClaudAMC/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+
+The results for each of the models evaluated are found below.
+
 ### 1. RandomOverSampler
+
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
 
 ### 2. SMOTE
 
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
+
+
 ### 3. ClusterCentroids
+
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
+
 
 ### 4. SMOTEENN
 
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
+
+
 ### 5. BalancedRandomForestClassifier
 
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
+
+
 ### 6. EasyEnsembleClassifier
+
+      a. Balanced Accuray:
+      
+      b. Precision:
+      
+      c. Recall:
+
